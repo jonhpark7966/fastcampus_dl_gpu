@@ -2,5 +2,5 @@
 
 for i in {1..19}
 do
-	sudo adduser fcu$i
+	sudo userdel fcu$i
 done
